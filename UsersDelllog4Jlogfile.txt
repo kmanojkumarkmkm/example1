@@ -1,0 +1,16 @@
+This iS INFO 
+Debug
+This iS Error message
+Fatel Message
+This iS INFO 
+Debug
+This iS Error message
+Fatel Message
+This iS INFO 
+Debug
+This iS Error message
+Fatel Message
+INFO    2023-03-21 15:54:06,146 [main] onesoft.log4j.test1.UseLog4jWIthPropertyConfig  - This iS INFO 
+DEBUG   2023-03-21 15:54:06,149 [main] onesoft.log4j.test1.UseLog4jWIthPropertyConfig  - Debug
+ERROR   2023-03-21 15:54:06,149 [main] onesoft.log4j.test1.UseLog4jWIthPropertyConfig  - This iS Error message
+FATAL   2023-03-21 15:54:06,149 [main] onesoft.log4j.test1.UseLog4jWIthPropertyConfig  - Fatel Message
